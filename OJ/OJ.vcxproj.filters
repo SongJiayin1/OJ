@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="循环-三连击.cpp">
+    <ClCompile Include="循环-级数求和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
